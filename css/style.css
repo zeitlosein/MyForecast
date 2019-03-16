@@ -105,8 +105,9 @@ a {
   }
 
   #weatherContainer {
-    right: 25px;
-    padding: 80px;
+    margin-top: 100px;
+    right: 15px;
+    padding: 40px;
     border-radius: 10px;
     display: inline-block;
   }
@@ -116,6 +117,9 @@ a {
     text-align: center;
   }
 
+  #temperature {
+    padding: 12px;
+  }
   .bottom-details {
     font-size: 19px;
     text-align: center;
