@@ -1,0 +1,15 @@
+{
+  "name": "myforecast",
+  "version": "1.0.0",
+  "description": "Weather Forecast Web Application",
+  "main": "index.js",
+  "homepage": "https://zeitlosein.github.io/myforecast",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Nikolas Smith",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
